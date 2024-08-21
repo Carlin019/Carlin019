@@ -6,4 +6,4 @@ Meu nome é Carlos Eduardo;
 - Estou me desenvolvendo na Linguagem JavaScript;
 - Utilizo esse espaco para a minha organização e compartilhamento dos meus projetos;
   
-![](https://tenor.com/pt-BR/view/corinthians-rodrigo-garro-gif-3467882418664779333)
+![](https://media.tenor.com/MCBkr6dWLkUAAAAM/corinthians-rodrigo-garro.gif)
